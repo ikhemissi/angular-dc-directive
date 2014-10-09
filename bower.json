@@ -1,0 +1,23 @@
+{
+    "name": "angular-dc-directive",
+    "version": "0.0.1",
+    "homepage": "https://github.com/ikhemissi/angular-dc-directive",
+    "authors": [
+        "Iheb Khemissi <iheb.khemissi@gmail.com>"
+    ],
+    "description": "AngularJS directive for dc.js [https://github.com/dc-js/dc.js]",
+    "main": "src/directives/angular-dc-directive.js",
+    "keywords": [
+        "angular",
+        "dc.js",
+	"chart",
+	"graph",
+        "directive"
+    ],
+    "license": "MIT",
+    "dependencies": {
+        "angular": ">1.2.8"
+    },
+   "devDependencies": {
+   }
+}
